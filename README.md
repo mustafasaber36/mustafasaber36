@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Moustafa Saber</h1>
 <h2 align="center">I'm a devOps Engineer</h2>
 <h3 align="center">I have studied at the ITI  and I have a very good knowledge in : </h3>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
